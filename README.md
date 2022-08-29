@@ -1,5 +1,5 @@
 # Quiz-Application
-It is a basic quiz application with inbuild timer.
+Practice project of a basic quiz application with inbuild timer.
 ![image](https://user-images.githubusercontent.com/72349617/185705257-f8af50e0-cbea-4bde-b66d-e8f94878f399.png)
 ![image](https://user-images.githubusercontent.com/72349617/185705273-2c9eba39-6607-4467-9ff7-521460d60a61.png)
 ![image](https://user-images.githubusercontent.com/72349617/185705348-540e76cf-9763-4c07-9580-a6fd4e6df3ae.png)
